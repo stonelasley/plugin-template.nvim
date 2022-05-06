@@ -2,7 +2,7 @@
 
 Description of plugin
 
-![Preview](https://user-images.githubusercontent.com/1717836/163735786-bbbcb23f-662a-4213-a2c4-b84440766324.gif)
+![Preview](https://lh3.googleusercontent.com/-CX-hTeVSsnM/VnnFeSP9KCI/AAAAAAAAItM/S9_zEDWASNk/s800-Ic42/asciifire.gif)
 
 ## Installation
 
